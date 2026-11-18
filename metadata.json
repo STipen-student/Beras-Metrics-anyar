@@ -1,0 +1,6 @@
+{
+  "name": "BerasMetrics",
+  "description": "Media pembelajaran interaktif pemodelan matematika laju perubahan harga beras untuk S2 Pend. Matematika UNS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
